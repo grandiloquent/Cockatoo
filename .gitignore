@@ -1,0 +1,10 @@
+obj
+bin
+.idea/
+packages/
+lib/
+*.bat
+.vs
+Server/
+GitHubFolderDownloader/
+packages/

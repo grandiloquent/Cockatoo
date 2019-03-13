@@ -12,7 +12,7 @@ namespace Share
 	
 	public static  class FileExtensions
 	{
-internal const char AltDirectorySeparatorChar = '/';
+		internal const char AltDirectorySeparatorChar = '/';
 		internal const char DirectorySeparatorChar = '\\';
 		private static readonly char[] InvalidFileNameChars = {
 			'\"',
